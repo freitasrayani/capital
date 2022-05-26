@@ -687,6 +687,10 @@ input[type=range] {
   border-radius: 0.25rem;
 }
 
+@media (min-width: 920px) {
+
+}
+
 .navbar-toggler:focus,
 .navbar-toggler:hover {
   text-decoration: none;
