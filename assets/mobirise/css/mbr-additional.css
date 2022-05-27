@@ -901,6 +901,14 @@ a {
   transform: scale(0, 1);
   transition: all 0.25s ease-in-out;
 }
+
+.img-size {
+  width: 200px;
+}
+
+.img-size2 {
+  width: 10rem;
+}
 .cid-t5rjcfEVCF .dropdown-menu {
   padding: 0;
   border-radius: 4px;
@@ -1448,8 +1456,8 @@ a {
   margin-bottom: 0;
 }
 .cid-t5y6k39xpF {
-  padding-top: 4rem;
-  padding-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 0;
   background-color: #232323;
 }
 .cid-t5y6k39xpF .mbr-fallback-image.disabled {
